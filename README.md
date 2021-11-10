@@ -1,7 +1,7 @@
 ## Hey! I'm Anurag Gautam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub anurag9837](https://img.shields.io/github/followers/agrittiwari?label=follow&style=social)](https://github.com/anurag9837)
-[![Linkedin: Anurag Gautam](https://img.shields.io/badge/-Agrit%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraggautam01/)](https://www.linkedin.com/in/anuraggautam01/)
+[![Linkedin: Anurag Gautam](https://img.shields.io/badge/-Anurag%20Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraggautam01/)](https://www.linkedin.com/in/anuraggautam01/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=anurag9837&left_color=gray&right_color=blue)
 
 
