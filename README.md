@@ -1,4 +1,4 @@
-##Hey! I'm Anurag Gautam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Anurag Gautam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub anuraggautam001](https://img.shields.io/github/followers/agrittiwari?label=follow&style=social)](https://github.com/anuraggautam001)
 [![Linkedin: Anurag Gautam](https://img.shields.io/badge/-Anurag%20Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuraggautam01/)](https://www.linkedin.com/in/anuraggautam01/)
